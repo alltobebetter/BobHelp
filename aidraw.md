@@ -2,11 +2,11 @@
 
 ## 选择机器人
 
-如果您不知道如何选择机器人，请您参阅[如何更改更适合我的机器人模型](https://page.suaolin.one/change-bot)。
+如果您不知道如何选择机器人，请您参阅[如何更改更适合我的机器人模型](./change-bot)。
 
 ## 更改到AI绘画类机器人
 
-例如Stable Diffusion和Playgroud类机器人，选择即可。
+例如Flux，Stable Diffusion和Playgroud类机器人，选择即可。
 
 ## 发送指令
 
