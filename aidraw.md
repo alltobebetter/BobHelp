@@ -12,4 +12,4 @@
 
 例如“晴朗的天空”，“小女孩”等，如图：
 
-![ai绘画](https://page.suaolin.one/img/aidraw.png)
+![ai绘画](./img/aidraw.png)
