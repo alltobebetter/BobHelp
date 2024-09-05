@@ -21,8 +21,10 @@ Vercel使用Github授权登录即可。
 2. 访问Vercel
 3. 使用Github登入，如下图
    ![vercel1](https://i.gyazo.com/96728e02b9aa61251836d588e3634522.png)
+   
 4. 登入后界面如下，点击Xieai5. 打开后，点击上方的Settings → Domains → 先在图片1处输入[随机字母].xieai.top加入一个新域名 → 在图片2处删除原有域名以实现防止有人单次付款多次使用（删除方法，点击edit → remove）
    ![vercel3](https://i.gyazo.com/d9498dccf46190aac79879b1b332e364.png)
+   
 5. 登入endless，具体步骤请继续阅读
 
 ### EndlessHost
